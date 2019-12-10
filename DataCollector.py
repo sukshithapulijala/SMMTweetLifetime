@@ -7,8 +7,8 @@ from queue import Queue
 
 ipc_queue = Queue()
 
-word_set = {"Rohith,Sukshitha"}
-word_set_query = "Rohith,Sukshitha"
+word_set = {"ExampleQueryWord"}
+word_set_query = "ExampleQueryWord"
 
 request_statuses = 'statuses/filter'
 request_trends = 'trends/place'
