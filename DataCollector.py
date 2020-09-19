@@ -145,10 +145,10 @@ def tweet_counter():
     global track
 
     # Twitter authorization keys
-    consumer_key = 'm59mgTtbU2IJHDvwbbFPVeky4'
-    consumer_secret = 'h70aPZuj9mCF8FaY5RmQ0THFkgSkLz87NgyYjKl8BmuKDxIVx7'
-    oauth_token = '1176511751510265856-yHUdKps8q9tW7SJ3K3iGAMvaseUCBR'
-    oauth_token_secret = 'iiZEZsaSHalA2vBV1fhrBwqNPI9NTWIxWaM8pvzS7s5bz'
+    consumer_key = '*****************'
+    consumer_secret = '***************'
+    oauth_token = '*****************'
+    oauth_token_secret = '******************'
 
     api = TwitterAPI(consumer_key, consumer_secret, oauth_token, oauth_token_secret)
 
